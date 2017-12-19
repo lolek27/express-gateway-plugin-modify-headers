@@ -1,0 +1,11 @@
+{
+  "name": "express-gateway-modify-headers-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for adding and modifying request headers for Express Gateway",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksandra Brzezinska o.m.brzezinska@gmail.com",
+  "license": "Apache-2.0"
+}
