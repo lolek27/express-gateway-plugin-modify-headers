@@ -7,7 +7,7 @@ Based on [example plugin](https://github.com/ExpressGateway/express-gateway-plug
 Simply type from your shell environment:
 
 ```bash
-eg plugin install modify-headers
+eg plugin install lolek27/express-gateway-plugin-modify-headers
 ```
 
 ## Quick start
